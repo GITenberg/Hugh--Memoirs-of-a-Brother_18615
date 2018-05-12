@@ -1,0 +1,33 @@
+_repo: Hugh--Memoirs-of-a-Brother_18615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Carr, Christopher
+    - Benson, A. C. (Arthur Christopher)
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Clergy -- Biography'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- !lcsh 'Benson, Robert Hugh, 1871-1914'
+title: 'Hugh: Memoirs of a Brother'
+url: http://www.gutenberg.org/ebooks/18615
